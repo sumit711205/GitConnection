@@ -9,6 +9,10 @@ public class Test1 {
 		{
 			System.out.println("Start eating");
 		}
+		else
+		{
+			System.out.println("Please continue working");
+		}
 
 	}
 
