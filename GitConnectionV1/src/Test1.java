@@ -12,6 +12,8 @@ public class Test1 {
 		else
 		{
 			System.out.println("Please continue working");
+			System.out.println("drink water only,haha");
+			
 		}
 
 	}
